@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Sofía Cristina Durán Muñoz \[22211752]; l22211752@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
